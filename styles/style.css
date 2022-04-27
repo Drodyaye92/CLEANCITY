@@ -1,0 +1,61 @@
+.numero {
+    color: black;
+}
+
+.menu {
+    background-color: rgb(240, 129, 25);
+    text-align: center;
+    color: rgb(248, 245, 245);
+}
+
+.phrase {
+    text-align: center;
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    justify-content: center;
+}
+
+.dessus {
+    z-index: 2;
+    margin-top: 120px;
+    background-color: rgba(206, 119, 37, 0.644);
+}
+
+.vertical {
+    border-left: 1px solid black;
+    height: 270px;
+    display: inline-block;
+}
+
+.hyper {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    justify-content: center;
+}
+
+.couleur {
+    background-color: aliceblue;
+}
+
+.titres {
+    background-color: rgb(240, 129, 25);
+    color: white;
+}
+
+
+/* .ligne_horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+.ligne_horizontal:before,
+.ligne_horizontal:after {
+    content: "";
+    border-bottom: 1px solid rgb(104, 102, 102);
+    margin: auto;
+} */
